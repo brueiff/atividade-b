@@ -17,6 +17,7 @@
     <h1>Praticando Gestão de configuração de software</h1>
     <button onclick="salve()" type="button" class="btn btn-primary">clica aqui</button>
     <h1>olá professor </h1>
+    <h2>Bruno</h2>
     <script>
         let nome = "Professor"
         function salve() {
